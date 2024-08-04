@@ -338,6 +338,7 @@ local DEFAULT_SETTINGS = {
 | Ruby                                | `sorbet`                          |
 | Ruby                                | `standardrb`                      |
 | Ruby                                | `rubocop`                         |
+| Ruby                                | `steep`                           |
 | Rust                                | `rust_analyzer`                   |
 | SQL                                 | `sqlls`                           |
 | SQL                                 | `sqls`                            |
